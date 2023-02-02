@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Komal kumar",
+      "gender": "Male",
+      "age": 27,
+      "country": "india",
+      "profession": "Student"
+    },
+    {
+      "id": 2,
+      "name": "Komal kumar",
+      "gender": "Male",
+      "age": 27,
+      "country": "india",
+      "profession": "Student"
+    }
+  ]
+}
